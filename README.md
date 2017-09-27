@@ -9,6 +9,7 @@
 
 ## Install API Key 
 
+- [ ] Make Sure You Have Node.js and NPM installed.
 - [ ] Insert API Key in src/api.js file.
 
 
